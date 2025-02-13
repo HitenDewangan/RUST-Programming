@@ -1,0 +1,20 @@
+**Key Borrowing Rules Demonstrated in This Code**
+
+**Multiple Immutable References**
+
+1. Multiple immutable references (`&s`) are allowed as long as they are read-only.
+2. Safe because no changes are made to data.
+3. Prevents conflicting data access.
+
+**Mutability Exclusivity**
+
+1. You can only have one mutable reference (`&mut s`) at a time.
+2. No mutable references can exist while immutable references are active.
+3. Prevents data races, ensuring memory safety.
+
+
+**No Overlap Between Mutable and Immutable References**
+
+1. Mutable reference (`r3`) can only be created after immutable references (`r1`, `r2`) go out of scope.
+2. Rust enforces this rule to prevent reading during modifications.
+3. Ensures data consistency and prevents inconsistent states.
