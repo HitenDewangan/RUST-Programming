@@ -1,0 +1,10 @@
+C:\Users\laptop\OneDrive\Desktop\Rust\Building Command Line Tools\Project\Manage Docker Container using docker Clients in Rust\mydocker\target\debug\deps\libthiserror-aa696bc9990bd652.rmeta: C:\Users\laptop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\lib.rs C:\Users\laptop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\aserror.rs C:\Users\laptop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\display.rs C:\Users\laptop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\var.rs
+
+C:\Users\laptop\OneDrive\Desktop\Rust\Building Command Line Tools\Project\Manage Docker Container using docker Clients in Rust\mydocker\target\debug\deps\libthiserror-aa696bc9990bd652.rlib: C:\Users\laptop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\lib.rs C:\Users\laptop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\aserror.rs C:\Users\laptop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\display.rs C:\Users\laptop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\var.rs
+
+C:\Users\laptop\OneDrive\Desktop\Rust\Building Command Line Tools\Project\Manage Docker Container using docker Clients in Rust\mydocker\target\debug\deps\thiserror-aa696bc9990bd652.d: C:\Users\laptop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\lib.rs C:\Users\laptop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\aserror.rs C:\Users\laptop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\display.rs C:\Users\laptop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\var.rs
+
+C:\Users\laptop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\lib.rs:
+C:\Users\laptop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\aserror.rs:
+C:\Users\laptop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\display.rs:
+C:\Users\laptop\.cargo\registry\src\index.crates.io-6f17d22bba15001f\thiserror-2.0.11\src\var.rs:

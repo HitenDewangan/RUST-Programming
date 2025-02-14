@@ -1,0 +1,11 @@
+[package]
+name = "my_cli_tool"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.5.29", features = ["derive"] }
+
+[[bin]]
+name = "main2"  # The name you'll use to run it
+path = "src/bin/main2.rs" # Path to the file
