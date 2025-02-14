@@ -1,0 +1,1 @@
+C:\Users\laptop\OneDrive\Desktop\Rust\Collections\ and\ Error\ Handling\log_demo\target\debug\log_demo.exe: C:\Users\laptop\OneDrive\Desktop\Rust\Collections\ and\ Error\ Handling\log_demo\src\main.rs

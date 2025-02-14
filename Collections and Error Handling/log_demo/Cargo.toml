@@ -1,0 +1,12 @@
+[package]
+name = "log_demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+log = "0.4"
+env_logger = "0.10"
+slog = "2.7"
+slog-async = "2.7"
+slog-term = "2.8"
+slog-json = "2.4"
