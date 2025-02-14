@@ -1,0 +1,9 @@
+[package]
+name = "text_magic"
+version = "0.1.0"
+authors = ["HIDED"]
+description = "A library for string manipulation, including reversing and checkind palindrome functions."
+liscence = "MIT"
+edition = "2021"
+
+[dependencies]

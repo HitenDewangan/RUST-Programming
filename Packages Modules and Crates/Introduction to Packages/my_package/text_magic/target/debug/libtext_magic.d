@@ -1,0 +1,1 @@
+C:\Users\laptop\OneDrive\Desktop\Rust\Packages\ Modules\ and\ Crates\Introduction\ to\ Packages\my_package\text_magic\target\debug\libtext_magic.rlib: C:\Users\laptop\OneDrive\Desktop\Rust\Packages\ Modules\ and\ Crates\Introduction\ to\ Packages\my_package\text_magic\src\lib.rs
